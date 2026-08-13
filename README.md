@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dhairya%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20B.Tech%20ECE%20(IoT)%2C%20IIIT%20Nagpur&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+Systems;Open+Source+Contributor" alt="Typing SVG" />
-
-<br/>
-
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=mapbox&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Backend+Developer;Building+Explainable+AI+Systems;RAG+%26+LLM+Application+Engineer;B.Tech+ECE+(IoT)+%40+IIIT+Nagpur" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+![B.Tech](https://img.shields.io/badge/B.Tech-ECE%20(IoT)%20%E2%80%94%20IIIT%20Nagpur-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nagpur%2C%20India-4C1D95?style=for-the-badge&logo=mapbox&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=6d28d9&labelColor=1e1b2e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-singh)
+[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyasingh70@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhairya-singh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%20dsingh701-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsingh701)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhairya-singh&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dhairya-singh?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
+![Stars](https://img.shields.io/github/stars/dhairya-singh?style=for-the-badge&color=6d28d9&labelColor=1e1b2e)
 
 </div>
 
@@ -31,24 +31,24 @@
 <img align="right" alt="coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
-name: Your Name
-role: Software Engineer | AI/ML Engineer | Full Stack Developer
-location: India
+name: Dhairya Singh
+role: AI/ML Engineer | Backend Developer
+education: B.Tech ECE (IoT), IIIT Nagpur — 2024 to 2028
 focus:
-  - Designing scalable, distributed backend systems
-  - Building production-grade AI/ML pipelines
-  - Crafting performant, accessible full-stack applications
-  - Translating ambiguous product requirements into shipped features
-philosophy: "Engineering is the art of trading complexity for leverage."
+  - Training and deploying interpretable deep learning models (XAI)
+  - Building retrieval-augmented generation and agentic AI systems
+  - Shipping production REST APIs with Django/FastAPI
+  - Full-stack delivery from model to deployed product
+philosophy: "A model isn't done until someone can trust why it decided what it decided."
 ```
 
-I'm a software engineer specializing in **distributed systems**, **applied machine learning**, and **product-focused full stack development**. My work spans designing fault-tolerant backend architectures, shipping AI-powered features end-to-end, and building interfaces that hold up under real-world scale. I care deeply about clean abstractions, measurable impact, and engineering decisions that compound over time.
+I'm a B.Tech ECE (IoT) student at **IIIT Nagpur** building end-to-end AI/ML systems — from fine-tuning deep learning models with explainability layers to deploying them behind scalable, documented REST APIs. My internship at **DEVtrust** gave me production experience shipping backend services; my personal project portfolio spans medical imaging AI, RAG chatbots, and developer analytics tooling. I care about model interpretability, clean API design, and building systems people can actually trust.
 
 ### 🎯 Open To
-- Full-time Software Engineering & AI/ML roles
-- Backend / Full Stack / ML Infrastructure positions
-- Open source collaboration
-- Technical writing & mentorship
+- AI/ML Engineer internships and new-grad roles
+- Backend / SDE internships and roles
+- Open source collaboration on GenAI and RAG tooling
+- Research collaborations in Explainable AI
 
 <br clear="right"/>
 
@@ -57,16 +57,19 @@ I'm a software engineer specializing in **distributed systems**, **applied machi
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=python) ![Cpp](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
 ### Backend & Databases
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
+![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+### AI / ML & GenAI
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Cloud, DevOps & Tooling
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux) ![Nginx](https://skillicons.dev/icons?i=nginx)
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
@@ -76,12 +79,12 @@ I'm a software engineer specializing in **distributed systems**, **applied machi
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, RNNs/LSTMs, Transformers, PyTorch & TensorFlow |
-| **NLP** | ⭐⭐⭐⭐ | Text classification, embeddings, LLM fine-tuning, RAG pipelines |
-| **Computer Vision** | ⭐⭐⭐ | Object detection, image segmentation, OpenCV |
-| **MLOps** | ⭐⭐⭐⭐ | Model serving, experiment tracking, CI/CD for ML, monitoring |
-| **LLM Engineering** | ⭐⭐⭐⭐⭐ | Prompt engineering, agentic workflows, vector databases, LangChain |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs (DenseNet121), PyTorch, TensorFlow, transfer learning, model fine-tuning |
+| **Explainable AI (XAI)** | ⭐⭐⭐⭐ | Grad-CAM, LIME — interpretable visual heatmaps for medical/clinical AI trust |
+| **RAG & Vector Search** | ⭐⭐⭐⭐ | FAISS, Sentence-Transformers, document chunking, semantic retrieval pipelines |
+| **LLM / Agentic AI** | ⭐⭐⭐⭐ | LangChain, Google Gemini API, OpenAI API, prompt engineering, tool-use patterns |
+| **Computer Vision** | ⭐⭐⭐ | OpenCV, medical image classification, multi-class lesion detection |
+| **MLOps** | ⭐⭐⭐ | MLflow experiment tracking, Docker-based model serving |
 
 </div>
 
@@ -90,59 +93,78 @@ I'm a software engineer specializing in **distributed systems**, **applied machi
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — AI-Powered Analytics Platform</b></summary>
+<summary><b>🔹 Derma Risk — AI Medical Imaging Platform</b></summary>
 <br/>
 
-A real-time analytics platform that leverages machine learning to surface actionable business insights from streaming data.
+A production-ready full-stack medical imaging platform that classifies 7 skin lesion types (Melanoma, BCC, etc.) using a fine-tuned DenseNet121 model, paired with an XAI layer and a GenAI patient-guidance chatbot.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Python, FastAPI, React, PostgreSQL, Redis, Docker |
-| **Scale** | 500K+ events processed daily |
-| **Performance** | p99 latency under 120ms |
-| **Security** | OAuth2, JWT, rate limiting, encrypted at rest |
-| **Impact** | Reduced manual reporting time by 70% |
-| **Repository** | [View Repo](https://github.com/yourusername/project-one) |
+| **Stack** | PyTorch, DenseNet121, FastAPI, React, LangChain, Gemini API, MongoDB, Grad-CAM, LIME, Docker |
+| **Scale** | Trained on ISIC 2019 benchmark — 25,000+ images |
+| **Performance** | 91% validation accuracy across 7 lesion classes |
+| **Security** | Containerized services, MongoDB-backed session/user isolation |
+| **Impact** | Grad-CAM/LIME overlays give clinicians interpretable visual reasoning behind each prediction |
+| **Repository** | [View Repo](https://github.com/dhairya-singh/derma-risk) |
 
-Built with a microservices architecture, this platform ingests high-volume event streams, applies real-time anomaly detection models, and exposes insights through an interactive dashboard. Designed for horizontal scalability and zero-downtime deployments.
+Combines a fine-tuned computer vision model with Explainable AI overlays — critical for medical AI trustworthiness — alongside a context-aware GenAI chatbot (LangChain + Gemini) with persistent conversation history, all containerized via Docker Compose with an async FastAPI backend and React/Vite frontend.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — Distributed Task Orchestration Engine</b></summary>
+<summary><b>🔹 LinguaBot — Multi-turn RAG Chatbot with Document Q&A</b></summary>
 <br/>
 
-A fault-tolerant, distributed job scheduler built for high-throughput background processing.
+A Retrieval-Augmented Generation chatbot that ingests PDFs and answers questions via semantic search, with persistent multi-turn memory.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Go, Kubernetes, RabbitMQ, MongoDB |
-| **Scale** | 1M+ jobs/day across multi-region clusters |
-| **Performance** | 99.98% job completion SLA |
-| **Security** | mTLS between services, RBAC-based access control |
-| **Impact** | Cut infrastructure costs by 35% via auto-scaling |
-| **Repository** | [View Repo](https://github.com/yourusername/project-two) |
+| **Stack** | LangChain, FAISS, Sentence-Transformers, FastAPI, React, OpenAI / Gemini API, Docker |
+| **Scale** | Chunked document ingestion with embedding-based semantic search |
+| **Performance** | Streaming token responses over FastAPI |
+| **Security** | Containerized deployment via Docker |
+| **Impact** | Multi-turn conversation memory (LangChain ConversationChain) mimics a real document Q&A assistant |
+| **Repository** | [View Repo](https://github.com/dhairya-singh/linguabot) |
 
-Engineered for resilience, this system handles worker failures gracefully through leader election and automatic job re-queuing, with observability built in via Prometheus and Grafana.
+Documents are chunked, embedded with sentence-transformers, and stored in FAISS for semantic retrieval; conversation context is preserved across turns rather than treating each question in isolation.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Three — RAG-Based Knowledge Assistant</b></summary>
+<summary><b>🔹 DevPulse — Real-time Developer Analytics Dashboard</b></summary>
 <br/>
 
-An LLM-powered assistant using retrieval-augmented generation to answer domain-specific queries with cited sources.
+A full-stack SDE productivity dashboard aggregating GitHub activity, PR metrics, and commit frequency into actionable charts.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Python, LangChain, Pinecone, Next.js, OpenAI API |
-| **Scale** | 50K+ documents indexed |
-| **Performance** | Sub-2s end-to-end response time |
-| **Security** | Role-based document access, PII redaction pipeline |
-| **Impact** | Improved internal support resolution time by 60% |
-| **Repository** | [View Repo](https://github.com/yourusername/project-three) |
+| **Stack** | Django, DRF, PostgreSQL, Celery, Redis, React, GitHub API, Docker |
+| **Scale** | Hourly async GitHub syncs via Celery + Redis job scheduling |
+| **Performance** | Real-time push event tracking via webhook listeners |
+| **Security** | JWT-based authentication, rate-limit handling |
+| **Impact** | Turns raw GitHub activity into visual productivity insights via Recharts |
+| **Repository** | [View Repo](https://github.com/dhairya-singh/devpulse) |
 
-Combines vector search with a fine-tuned reranking layer to ground LLM responses in verified source material, minimizing hallucination while preserving conversational fluency.
+Django/DRF backend persists synced GitHub data to PostgreSQL, with Celery-driven background jobs keeping metrics fresh and a React + Recharts frontend surfacing them.
+
+</details>
+
+<details>
+<summary><b>🔹 Solar-Powered Autonomous Weather Rover</b></summary>
+<br/>
+
+An autonomous rover for environmental monitoring in remote zones, streaming real-time gas and climate telemetry to a live web dashboard.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Embedded systems, solar tracking algorithm, gas/climate sensors (CH4, CO, LPG) |
+| **Scale** | Continuous remote-zone environmental telemetry streaming |
+| **Performance** | ~30% improved energy harvest vs. static solar panels |
+| **Security** | Automatic solar-to-battery failover for uninterrupted operation |
+| **Impact** | Enables unattended environmental monitoring in remote/hazardous zones |
+| **Repository** | [View Repo](https://github.com/dhairya-singh/solar-rover) |
+
+A custom solar tracking algorithm actively optimizes panel orientation for energy harvest, backed by automatic battery failover so telemetry keeps streaming without interruption.
 
 </details>
 
@@ -150,28 +172,36 @@ Combines vector search with a fine-tuned reranking layer to ground LLM responses
 
 ## 💼 Experience
 
-### Software Engineer @ Company Name
-**Jan 2024 — Present**
+### Backend Engineering Intern · DEVtrust
+**Jun 2025 — Jul 2025**
 
-Contributing to core platform architecture, building AI-driven features, and driving engineering best practices across the team.
+Shipped production backend services in a live agile codebase.
 
-- Designed and shipped microservices handling 2M+ daily requests
-- Built and deployed ML models improving recommendation accuracy by 25%
-- Led migration to Kubernetes, reducing deployment time by 60%
-- Mentored 3 junior engineers on system design and code quality
+- Designed and shipped 12+ production REST API endpoints using Django REST Framework, fully documented via OpenAPI/Swagger
+- Architected a layered Python/Django backend with request validation and centralized error handling, reducing bug surface area
+- Collaborated in an agile team using Git, reviewed PRs, maintained clean commit history on a live production codebase
 
-`System Design` `Python` `React` `AWS` `Docker` `PostgreSQL`
+`Django` `Django REST Framework` `Python` `Git` `REST APIs` `Swagger/OpenAPI`
 
-### Software Engineering Intern @ Previous Company
-**May 2023 — Aug 2023**
+### Technical Lead — Agentic AI Workshop · IIIT Nagpur × AWS Nagpur
+**Dec 2025 — Jan 2026**
 
-Worked on full stack feature development and internal tooling for the data platform team.
+Designed and delivered technical curriculum for a hands-on GenAI workshop.
 
-- Developed internal dashboards used by 10+ cross-functional teams
-- Optimized database queries, reducing average load time by 40%
-- Wrote automated test suites increasing coverage to 85%
+- Designed and delivered curriculum for an Agentic AI workshop with 50+ participants, covering LLM tool-use and AI agent architectures
+- Managed end-to-end event logistics and participant engagement in collaboration with AWS Nagpur
 
-`JavaScript` `Node.js` `MongoDB` `REST APIs`
+`Agentic AI` `LLM Tool-Use` `GenAI` `Technical Curriculum Design`
+
+### Discipline Coordinator · Council of Residential Affairs, IIIT Nagpur
+**Aug 2025 — Present**
+
+Elected student representative for regulatory compliance and grievance resolution.
+
+- Manage regulatory compliance and grievance resolution for 300+ residents
+- Building communication, conflict resolution, and leadership skills through elected representative work
+
+`Leadership` `Conflict Resolution` `Stakeholder Management`
 
 ---
 
@@ -181,46 +211,20 @@ Worked on full stack feature development and internal tooling for the data platf
 
 | Recognition | Details |
 |---|---|
-| 🥇 Winner, National Hackathon 2024 | Built an AI-powered accessibility tool in 36 hours |
-| 🎖️ Top 1% LeetCode Contest Rating | Consistent top-tier performance in competitive programming |
-| 📜 Published Research Paper | AI/ML applications, peer-reviewed conference |
-| 🌟 Open Source Contributor | 500+ contributions across major repositories |
-| 🎓 Dean's List | Recognized for academic excellence, 4 consecutive semesters |
+| 🥈 Hack with India — Top 20% Nationally | ~5,000 / 25,000+ teams, Google India-backed nationwide hackathon |
+| 🎖️ Hackathon Finalist | Hacksagon (ABV-IIITM Gwalior), Technex Botstacle, CoastalClash Nagpur |
+| ⭐ CodeChef 3★, Rating 1732 | Handle: dsingh701 — 200+ problems solved |
+| 🌟 Core Member, UDYAM E-Cell IIIT Nagpur | Organized startup programs and innovation challenges (Dec 2024 – Present) |
 
 </div>
 
 ---
 
-## 📜 Certifications
-
-**AWS**
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-Java%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud%20Computing-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 💻 Coding Profiles
+## 💻 Coding Profile
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B%20Solved-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active%20Contributor-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%20%7C%20Rating%201732-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsingh701)
 
 </div>
 
@@ -230,10 +234,10 @@ Worked on full stack feature development and internal tooling for the data platf
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhairya-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairya-singh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
@@ -243,7 +247,7 @@ Worked on full stack feature development and internal tooling for the data platf
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhairya-singh&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 
 </div>
 
@@ -253,7 +257,7 @@ Worked on full stack feature development and internal tooling for the data platf
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhairya-singh&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9"/>
 
 </div>
 
@@ -263,7 +267,7 @@ Worked on full stack feature development and internal tooling for the data platf
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhairya-singh/dhairya-singh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -274,19 +278,19 @@ Worked on full stack feature development and internal tooling for the data platf
 ```yaml
 current:
   learning:
-    - Advanced distributed systems design
-    - LLM agent orchestration frameworks
-    - Kubernetes operators & service mesh
+    - Advanced RAG architectures and agentic AI orchestration
+    - Model interpretability techniques beyond Grad-CAM/LIME
+    - Distributed backend systems design
   building:
-    - An open-source RAG toolkit
-    - A personal AI infrastructure playground
+    - Derma Risk — explainable medical imaging AI platform
+    - Personal RAG/agentic AI tooling
   exploring:
     - Vector database internals
-    - Edge inference optimization
+    - MLOps and model monitoring at scale
   open_to:
-    - Full-time Software Engineering roles
-    - AI/ML Engineering opportunities
-    - Open source collaboration
+    - AI/ML Engineer internships and new-grad roles
+    - Backend/SDE internships
+    - Open source collaboration on GenAI tooling
 ```
 
 ---
@@ -295,10 +299,10 @@ current:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyasingh70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhairya-singh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsingh701)
 
 </div>
 
@@ -306,7 +310,7 @@ current:
 
 <div align="center">
 
-*"Code is the closest thing we have to magic — write it with intention."*
+*"A model isn't done until someone can trust why it decided what it decided."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
