@@ -231,26 +231,17 @@ Elected student representative for regulatory compliance and grievance resolutio
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DSingh256&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSingh256&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa&cache_seconds=86400" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DSingh256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" />
-</div>
----
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DSingh256&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSingh256&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DSingh256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DSingh256&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&v=1" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSingh256&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa&v=1" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DSingh256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&v=1" />
 </div>
 
 ---
 
 ## 🏅 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DSingh256&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DSingh256&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&v=1" />
 </div>
-
 ---
 
 ## 📈 Contribution Activity
