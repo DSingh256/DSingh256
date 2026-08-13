@@ -11,17 +11,16 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-singh-b12115324)
 [![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyasingh70@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhairya-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DSingh256)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%20dsingh701-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsingh701)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhairya-singh&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/dhairya-singh?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/dhairya-singh?style=for-the-badge&color=6d28d9&labelColor=1e1b2e)
-
+![Profile Views](https://komarev.com/ghpvc/?username=DSingh256&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/DSingh256?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
+![Stars](https://img.shields.io/github/stars/DSingh256?style=for-the-badge&color=6d28d9&labelColor=1e1b2e)
 </div>
 
 ---
