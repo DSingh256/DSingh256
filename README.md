@@ -236,41 +236,39 @@ Elected student representative for regulatory compliance and grievance resolutio
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhairya-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairya-singh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=DSingh256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DSingh256&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DSingh256&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DSingh256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
 ---
 
 ## 🏅 GitHub Trophies
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhairya-singh&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=DSingh256&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
 ---
 
 ## 📈 Contribution Activity
-
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhairya-singh&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DSingh256&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/dhairya-singh/dhairya-singh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/DSingh256/DSingh256/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
-
----
 
 ## 🎯 Current Focus
 
