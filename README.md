@@ -277,8 +277,8 @@ current:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyasingh70@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-singh)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhairya-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-singh-b12115324/)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DSingh256)
 [![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dsingh701)
 
 </div>
