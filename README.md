@@ -240,7 +240,9 @@ Elected student representative for regulatory compliance and grievance resolutio
 
 ## 🏅 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DSingh256&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&v=1" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DSingh256&theme=darkhub&no-frame=false&no-reflection=true" alt="DSingh256 GitHub Trophies" />
+  </a>
 </div>
 ---
 
