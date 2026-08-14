@@ -104,7 +104,7 @@ A production-ready full-stack medical imaging platform that classifies 7 skin le
 | **Performance** | 91% validation accuracy across 7 lesion classes |
 | **Security** | Containerized services, MongoDB-backed session/user isolation |
 | **Impact** | Grad-CAM/LIME overlays give clinicians interpretable visual reasoning behind each prediction |
-| **Repository** | [View Repo](https://github.com/dhairya-singh/derma-risk) |
+| **Repository** | [View Repo](https://github.com/yashJoshi0907/Derma_Risk) |
 
 Combines a fine-tuned computer vision model with Explainable AI overlays — critical for medical AI trustworthiness — alongside a context-aware GenAI chatbot (LangChain + Gemini) with persistent conversation history, all containerized via Docker Compose with an async FastAPI backend and React/Vite frontend.
 
