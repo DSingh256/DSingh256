@@ -149,21 +149,20 @@ Django/DRF backend persists synced GitHub data to PostgreSQL, with Celery-driven
 </details>
 
 <details>
-<summary><b>🔹 Solar-Powered Autonomous Weather Rover</b></summary>
-<br/>
+<summary><b>🎻 Opus — Multi-Agent Orchestration System</b></summary>
+<br />
 
-An autonomous rover for environmental monitoring in remote zones, streaming real-time gas and climate telemetry to a live web dashboard.
+A portfolio-grade multi-agent orchestration system with supervisor routing, persistent semantic memory, and human-in-the-loop escalation.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Embedded systems, solar tracking algorithm, gas/climate sensors (CH4, CO, LPG) |
-| **Scale** | Continuous remote-zone environmental telemetry streaming |
-| **Performance** | ~30% improved energy harvest vs. static solar panels |
-| **Security** | Automatic solar-to-battery failover for uninterrupted operation |
-| **Impact** | Enables unattended environmental monitoring in remote/hazardous zones |
-| **Repository** | [View Repo](https://github.com/dhairya-singh/solar-rover) |
+| **Stack** | Python 3.12, LangGraph, Google Gemini, pgvector, FastAPI, React |
+| **Architecture** | Supervisor routing (Researcher/Coder specialists) + HITL review dashboard |
+| **Memory** | Chat history + semantic recall via pgvector (`vector(384)`, `all-MiniLM-L6-v2`) |
+| **Security** | Read-only SQL defense-in-depth (keyword filtering + session read-only transaction) |
+| **Repository** | [View Repo](https://github.com/DSingh256/Opus) |
 
-A custom solar tracking algorithm actively optimizes panel orientation for energy harvest, backed by automatic battery failover so telemetry keeps streaming without interruption.
+Dynamically routes tasks between specialist agents to save latency and tokens, while persisting state and escalating low-confidence results to a human review workflow.
 
 </details>
 
