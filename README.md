@@ -238,12 +238,6 @@ Elected student representative for regulatory compliance and grievance resolutio
 
 ---
 
-## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSingh256&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
----
-
 ## 📈 Contribution Activity
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DSingh256&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" />
