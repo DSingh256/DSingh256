@@ -53,7 +53,7 @@ I'm a B.Tech ECE (IoT) student at **IIIT Nagpur** building end-to-end AI/ML syst
 
 ---
 
-## 🛠️ Tech Stack
+##🛠️ Tech Stack
 
 ### Languages
 ![Python](https://skillicons.dev/icons?i=python) ![Cpp](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript)
